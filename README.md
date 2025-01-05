@@ -8,7 +8,7 @@ me = {
     "first_name": "Yassine",
     "occupation": "Student/English Teacher, Data Science",
     "school": "FSA, Agadir",
-    "favorite_programming_language": "Python, R",
+    "favorite_programming_language": "Python",
     "my_python_packages": ["beautifulSoup", "pyTorch", "scikit-learn"],
     "blog": "yassineerradouani.wordpress.com"
 }
