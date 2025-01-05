@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi friend 👋
 
-<!--
-**yassnemo/yassnemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some facts about myself:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```r
+me = {
+    "name": "Erradouani",
+    "first_name": "Yassine",
+    "occupation": "Student/English Teacher, Data Science",
+    "school": "FSA, Agadir",
+    "favorite_programming_language": "Python, R",
+    "my_python_packages": ["beautifulSoup", "pyTorch", "scikit-learn"],
+    "blog": "yassineerradouani.wordpress.com"
+}
