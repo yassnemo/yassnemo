@@ -10,5 +10,5 @@ me = {
     "school": "Ibn Zohr, Alx Morocco",
     "favorite_programming_language": "Python",
     "my_python_packages": ["beautifulSoup", "pyTorch", "scikit-learn"],
-    "blog": "yassineerradouani.wordpress.com"
+    "blog": "yassine-erradouani.tech/blogs"
 }
