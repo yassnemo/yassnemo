@@ -9,7 +9,7 @@ me = {
     "occupation": "Student/English Teacher, Data Science",
     "school": "Ibn Zohr, Alx Morocco",
     "favorite_programming_language": "Python",
-    "my_python_packages": ["beautifulSoup", "pyTorch", "scikit-learn"],
+    "favourite_python_packages": ["beautifulSoup", "pyTorch", "scikit-learn"],
     "blog": "yassine-erradouani.tech/blogs"
 }
 
