@@ -3,13 +3,14 @@
 Some facts about myself:
 
 ```r
-me = {
+yassine = {
     "name": "Yassine Erradouani",
-    "first_name": "Yassine",
-    "occupation": "English Teacher, Data Science Student",
+    "role": ["Data Science Student", "English Teacher"],
     "universtiy": "University of Science Ibn Zohr, Alx Morocco",
-    "favorite_programming_language": "Python",
-    "favourite_python_packages": ["beautifulSoup", "pyTorch", "scikit-learn"],
-    "blog": "yassine-erradouani.tech/blogs"
+    "superpower": "Interrogating data for useful insights",
+    "fave_tools": ["Python", "PyTorch", "scikit-learn", "BeautifulSoup"],
+    "blog": "yassineerradouani.wordpress.com"
+    "hobbies": ["Geeking out over new tech", "Playing chess", "Sipping mint tea on rainy nights"]
+
 }
 
