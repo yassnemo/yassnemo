@@ -6,7 +6,7 @@ Some facts about myself:
 me = {
     "name": "Erradouani",
     "first_name": "Yassine",
-    "occupation": "Student/English Teacher, Data Science",
+    "occupation": "English Teacher, Data Science Student",
     "school": "Ibn Zohr, Alx Morocco",
     "favorite_programming_language": "Python",
     "favourite_python_packages": ["beautifulSoup", "pyTorch", "scikit-learn"],
