@@ -1,17 +1,15 @@
 <h1 align="center">Hello I'm Yassine Erradouani</h1>
 <h3 align="center">A Data Science & ML Student from Morocco.</h3>
 
-- 🔭 I’m currently working on [ymovies-v3](https://github.com/yassnemo/ymovies-v3)
-
-- 🌱 I’m currently learning **Go,**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yassnemo?tab=repositories](https://github.com/yassnemo?tab=repositories)
-
-- 📝 I regularly write articles on [https://yassineerradouani.wordpress.com/](https://yassineerradouani.wordpress.com/)
-
-- 📫 How to reach me **yassine.erradouani@protonmail.com**
-
-- ⚡ Fun fact **I used to make music.**
+yassine = {
+    "name": "Yassine Erradouani",
+    "role": ["Data Science Student", "English Teacher"],
+    "universtiy": "University of Science Ibn Zohr, Alx Morocco",
+    "superpower": "Interrogating data for useful insights",
+    "fave_tools": ["Python", "PyTorch", "scikit-learn", "BeautifulSoup"],
+    "blog": "yassineerradouani.wordpress.com"
+    "hobbies": ["Geeking out over new tech", "Playing chess", "Sipping mint tea on rainy nights"]
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
