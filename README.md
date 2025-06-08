@@ -1,16 +1,6 @@
 <h1 align="center">Hello I'm Yassine Erradouani</h1>
 <h3 align="center">A Data Science & ML Student from Morocco.</h3>
 
-yassine = {
-    "name": "Yassine Erradouani",
-    "role": ["Data Science Student", "English Teacher"],
-    "universtiy": "University of Science Ibn Zohr, Alx Morocco",
-    "superpower": "Interrogating data for useful insights",
-    "fave_tools": ["Python", "PyTorch", "scikit-learn", "BeautifulSoup"],
-    "blog": "yassineerradouani.wordpress.com"
-    "hobbies": ["Geeking out over new tech", "Playing chess", "Sipping mint tea on rainy nights"]
-}
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/erradouanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erradouanii" height="30" width="40" /></a>
