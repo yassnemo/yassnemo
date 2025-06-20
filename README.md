@@ -6,10 +6,10 @@ I'm a data science student at Faculty of Applied Science Ibn Zohr, dedicated to 
 
 All of my coding projects are built with intention, from initial ideation and planning to the final implementation. I believe in creating solutions that not only work technically but also tell a story. When I'm not coding, I'm writing about the intersection of technology, philosophy, and human nature, or, I'm playing chess on Lichess.
 
-Check out my latest thoughts and technical insights: **[Articles](https://yerradouani.me/articles)**
+Check out my latest thoughts and technical insights: **[Articles](https://yerradouani.com/articles)**
 
    <p align="left">
-      <a href="https://yerradouani.me"><img src="https://img.shields.io/badge/portfolio-%23FF0000.svg?&style=for-the-badge&logo=reverbnation&logoColor=white" height=32 width=107 alt="Portfolio badge"></a> 
+      <a href="https://yerradouani.com"><img src="https://img.shields.io/badge/portfolio-%23FF0000.svg?&style=for-the-badge&logo=reverbnation&logoColor=white" height=32 width=107 alt="Portfolio badge"></a> 
       <a href="mailto:yassine.erradouani@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-%23fd1745.svg?&style=for-the-badge&logo=protonmail&logoColor=white" height=32 width=107 alt="ProtonMail badge"></a> 
       <a href="https://www.linkedin.com/in/yassine-erradouani/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32 width=107 alt="Linkedin badge"></a> 
       <a href="https://x.com/erradouanii"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32 width=107 alt="Twitter badge"></a>
