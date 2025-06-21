@@ -1,4 +1,4 @@
-### ♚ Yassine Erradouani
+### ♚ Hi there, my name is **Yassine Erradouani**
 
 **`Data Science Student (BI Analyst/Developer/Writer)`**
 
