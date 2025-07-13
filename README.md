@@ -79,32 +79,5 @@ Check out my latest thoughts and technical insights: **[Articles](https://yerrad
 
 </div>
 
-#
-
-### ✍️ Latest Articles
-
-<!-- BEGIN ARTICLE-CARDS -->
-[![YMovies: Building a Movie Recommendation Web App](https://img.shields.io/badge/YMovies-Building%20a%20Movie%20Recommendation%20Web%20App-blue?style=for-the-badge&logo=youtube&logoColor=white)](https://yerradouani.me/articles/ymovies-web-app)
-
-*Inspired by Netflix's "Because you watched..." feature, I built YMovies—a personalized movie recommendation web app. From machine learning algorithms to full-stack development, here's how I transformed a couch-surfing idea into a working recommendation system.*
-
-[![Problems, Smarts and The Way It Goes](https://img.shields.io/badge/ML%20Insights-Problems%2C%20Smarts%20and%20The%20Way%20It%20Goes-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://yerradouani.me/articles/problems-smarts-and-the-way-it-goes)
-
-*Simple ML models like scikit-learn and XGBoost can outperform deep learning for tabular data, delivering fast, clear, and practical results—dive in to see why less is often more!*
-
-[![Change of Heart, Change of Thought](https://img.shields.io/badge/Philosophy-Change%20of%20Heart%2C%20Change%20of%20Thought-red?style=for-the-badge&logo=lightbulb&logoColor=white)](https://yerradouani.me/articles/change-of-heart-change-of-thought)
-
-*Exploring how our understanding of being smart has shifted, diving into Howard Gardner's theory of multiple intelligences, and sharing lessons about embracing our unique strengths.*
-
-<!-- END ARTICLE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Read%20More%20Articles-red?style=for-the-badge&logo=book&logoColor=white"/>](https://yerradouani.me/articles)
-
-### 📊 Stats
-
-![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassnemo&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yerradouani&theme=gruvbox&border_radius=4.5) -->
-
 
 Made In Morocco 🇲🇦
