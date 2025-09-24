@@ -1,16 +1,16 @@
-### Hi there, my name is **Yassine Erradouani**
+## Hi, I'm Yassine Erradouani 👋  
 
-**`Data Science Student (BI Analyst/Developer/Writer)`**
+I'm a M1 Data Science student at the Faculty of Applied Science, Ibn Zohr.  
+Zealous about turning data into insights, I work across **BI analysis, data engineering, and machine learning**, while also exploring the art of creating websites that are beautifully beautiful :)
 
-I'm a data science student at Faculty of Applied Science Ibn Zohr, I like solving real-world problems through data engineering, machine learning, and thoughtful writing.
+I enjoy building projects that combine **technical precision with clear storytelling**, basically solutions that not only work, but also make sense.  
 
-All of my coding projects are built with intention, from initial ideation and planning to the final implementation. I believe in creating solutions that not only work technically but also tell a story. 
-
-   <p align="left">
-      <a href="https://yerradouani.me"><img src="https://img.shields.io/badge/portfolio-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32 width=107 alt="Twitter badge"></a>
-      <a href="mailto:hello@yerradouani.me"><img src="https://img.shields.io/badge/email-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32 width=107 alt="Twitter badge"></a>
-      <a href="https://www.linkedin.com/in/yassine-erradouani/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32 width=107 alt="Linkedin badge"></a> 
-      <a href="https://x.com/erradouanii"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32 width=107 alt="Twitter badge"></a>
+[![Yassine Erradouani](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=firefox&logoColor=white)](https://yerradouani.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-erradouani)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/erradouanii) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yassnemo007)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yassnemo007)  
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-333333?style=for-the-badge&logo=monkeytype&logoColor=yellow)](https://monkeytype.com/profile/yassnemo)
 
 ---
 
