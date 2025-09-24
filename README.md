@@ -29,7 +29,7 @@ My projects combine **technical precision with clear storytelling**, basically s
 
 ---
 
-### Things I'm also good at
+### Things I'm Also Good At
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,9 +59,9 @@ My projects combine **technical precision with clear storytelling**, basically s
 
 ---
 
-### My github stats
+### My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yassnemo&show_icons=true&theme=gotham" alt="yassnemo" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yassnemo&show_icons=true&theme=gotham" alt="yassnemo" />
 
 
 Made In Morocco 🇲🇦
