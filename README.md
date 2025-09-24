@@ -60,11 +60,9 @@ My projects combine **technical precision with clear storytelling**, basically s
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
+
 ---
 
 ### My Github Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yassnemo&show_icons=true&theme=gotham" alt="yassnemo" />
-
-
-Made In Morocco 🇲🇦
