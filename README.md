@@ -3,13 +3,12 @@
 I'm a M1 Data Science student at the Faculty of Applied Science, Ibn Zohr.  
 Zealous about turning data into insights, I work across **BI analysis, data engineering, and machine learning**, while also exploring the art of creating websites that are beautifully beautiful :)
 
-I enjoy building projects that combine **technical precision with clear storytelling**, basically solutions that not only work, but also make sense.  
+My projects combine **technical precision with clear storytelling**, basically solutions that not only work, but also make sense.  
 
 [![Yassine Erradouani](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=firefox&logoColor=white)](https://yerradouani.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-erradouani)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/erradouanii) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yassnemo007)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yassnemo007)  
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-333333?style=for-the-badge&logo=monkeytype&logoColor=yellow)](https://monkeytype.com/profile/yassnemo)
 
 ---
