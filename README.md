@@ -77,5 +77,9 @@ All of my coding projects are built with intention, from initial ideation and pl
 
 </div>
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yassnemo&show_icons=true&theme=gotham" alt="yassnemo" />
+
 
 Made In Morocco 🇲🇦
