@@ -64,5 +64,4 @@ My projects combine **technical precision with clear storytelling**, basically s
 ---
 
 ### My Github Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yassnemo&show_icons=true&theme=gotham" alt="yassnemo" />
+<p align="left"> <img src="https://readme-stats-liart-mu.vercel.app/api?username=yassnemo&show_icons=true&theme=gotham" alt="yassnemo" />
