@@ -61,7 +61,4 @@ My projects combine **technical precision with clear storytelling**, basically s
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
----
 
-### My Github Stats
-<p align="left"> <img src="https://readme-stats-liart-mu.vercel.app/api?username=yassnemo&show_icons=true&theme=gotham" alt="yassnemo" />
