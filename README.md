@@ -1,9 +1,9 @@
-## Hi, I'm Yassine Erradouani 👋  
+## Hi, I'm Yassine Erradouani 👋
 
-I'm a M1 Data Science student at the Faculty of Applied Science, Ibn Zohr.  
-Zealous about turning data into insights, I work across **BI analysis, data engineering, and machine learning**, while also exploring the art of creating websites that are beautifully beautiful :)
+I am a Data Analyst and Engineer with a year of experience. 
+I use Python, SQL, and cloud tools to build data infrastructures, and I utilize modern web frameworks like React and TypeScript to create custom data applications. 
 
-My projects combine **technical precision with clear storytelling**, basically solutions that not only work, but also make sense.  
+My work focuses on the full data lifecycle—from backend processing to interactive frontend visualization.
 
 [![Yassine Erradouani](https://img.shields.io/badge/Website-800020?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yerradouani.me)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-erradouani)
@@ -11,7 +11,6 @@ My projects combine **technical precision with clear storytelling**, basically s
 [![Instagram](https://img.shields.io/badge/Instagram-8C5A00?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yassnemo007)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-0F172A?style=for-the-badge&logo=monkeytype&logoColor=yellow)](https://monkeytype.com/profile/yassnemo)
 [![Email](https://img.shields.io/badge/Email-FFBF00?style=for-the-badge&logo=gmail&logoColor=1F2933)](mailto:hello@yerradouani.me)
-
 
 ---
 
