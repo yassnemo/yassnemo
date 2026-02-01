@@ -5,11 +5,13 @@ Zealous about turning data into insights, I work across **BI analysis, data engi
 
 My projects combine **technical precision with clear storytelling**, basically solutions that not only work, but also make sense.  
 
-[![Yassine Erradouani](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=firefox&logoColor=white)](https://yerradouani.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-erradouani)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/erradouanii) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yassnemo007)
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-333333?style=for-the-badge&logo=monkeytype&logoColor=yellow)](https://monkeytype.com/profile/yassnemo)
+[![Yassine Erradouani](https://img.shields.io/badge/Website-800020?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yerradouani.me)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-erradouani)
+[![X](https://img.shields.io/badge/X-0B3D2E?style=for-the-badge&logo=x&logoColor=white)](https://x.com/erradouanii)
+[![Instagram](https://img.shields.io/badge/Instagram-8C5A00?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yassnemo007)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-0F172A?style=for-the-badge&logo=monkeytype&logoColor=yellow)](https://monkeytype.com/profile/yassnemo)
+[![Email](https://img.shields.io/badge/Email-FFBF00?style=for-the-badge&logo=gmail&logoColor=1F2933)](mailto:hello@yerradouani.me)
+
 
 ---
 
