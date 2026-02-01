@@ -1,11 +1,11 @@
 ## Hi, I'm Yassine Erradouani 👋
 
-I am a Junior Data Analyst and Engineer with a year of experience. 
-I use Python, SQL, and cloud tools to build data infrastructures, and I utilize modern web frameworks like React and TypeScript to create custom data applications. 
+I am a **Data Analyst and Engineer** with one year of experience. 
+I use **Python**, **SQL**, and **cloud tools** to build data infrastructure, and I utilize modern web frameworks like **React** and **TypeScript** to create **custom data applications**. 
 
-My work focuses on the full data lifecycle—from backend processing to interactive frontend visualization.
+My work focuses on the **full data lifecycle**—from backend processing to interactive frontend visualization.
 
-Contact me: mailto:hello@yerradouani.me
+Contact me: hello@yerradouani.me
 
 [![Yassine Erradouani](https://img.shields.io/badge/Website-800020?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yerradouani.me)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-erradouani)
