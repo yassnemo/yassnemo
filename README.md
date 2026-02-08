@@ -1,6 +1,6 @@
 ## Hi, I'm Yassine Erradouani 👋
 
-I am a **Data Analyst and Engineer** with one year of experience. 
+I am a **Data Analyst and Engineer** with a year of experience. 
 I use **Python**, **SQL**, and **cloud tools** to build data infrastructure, and I utilize modern web frameworks like **React** and **TypeScript** to create **custom data applications**. 
 
 My work focuses on the **full data lifecycle**, from backend processing to interactive frontend visualization.
