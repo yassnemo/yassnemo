@@ -1,6 +1,6 @@
 ## Hi, I'm Yassine Erradouani 👋
 
-I am a **Data Analyst** at @phaxel-edi. 
+I am a **Data Analyst** at Phaxel. 
 I use **Python**, **SQL**, and **cloud tools** to build data infrastructure, and I utilize modern web frameworks like **React** and **TypeScript** to create **custom data applications**. 
 
 My work focuses on the **full data lifecycle**, from backend processing to interactive frontend visualization.
