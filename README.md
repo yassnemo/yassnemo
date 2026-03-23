@@ -1,6 +1,6 @@
 ## Hi, I'm Yassine Erradouani 👋
 
-I am a **Data Engineer** at Phaxel. 
+I am a **Data Engineer** at Phaxel, a B2B SaaS platform focused on EDI validation and supply chain compliance.
 
 I use **Python**, **SQL**, and **cloud tools** to build data infrastructure, and I utilize modern web frameworks like **React** and **TypeScript** to create **custom data applications**. 
 
