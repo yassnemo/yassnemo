@@ -8,7 +8,7 @@ My work focuses on the **full data lifecycle**, from backend processing to inter
 
 Contact me: hello@yerradouani.me
 
-Visit my website: yerradouani.me 
+Visit my website: www.yerradouani.me 
 
 [![Yassine Erradouani](https://img.shields.io/badge/Website-800020?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yerradouani.me)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-erradouani)
